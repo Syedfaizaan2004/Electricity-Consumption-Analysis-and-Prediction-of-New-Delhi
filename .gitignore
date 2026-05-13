@@ -52,6 +52,9 @@ Output/report_assets/mpl_cache/
 # Trained model artifacts
 Model/
 
+# Raw dataset files
+Data/
+
 # Optional: uncomment these if you want Git to ignore generated project artifacts.
 # Output/
 # *.pkl
